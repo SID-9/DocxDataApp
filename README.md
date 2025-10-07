@@ -14,11 +14,9 @@ A web application for extracting named entities from DOCX files and text inputs.
 
 ## ⚙️ Technologies
 
-* **Backend**: FastAPI, spaCy
+* **Backend**: FastAPI,
 * **Frontend**: Streamlit
 * **Deployment**: Render.com
-* **Others**: python-docx, requests, python-multipart
-
 ---
 
 ## 🛠️ Setup
