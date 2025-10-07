@@ -3,3 +3,4 @@ uvicorn
 streamlit
 requests
 python-multipart
+docx
