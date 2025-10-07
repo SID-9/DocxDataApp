@@ -2,7 +2,8 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_BASE="http://localhost:8000/api"
+#API_BASE="http://localhost:8000/api"
+API_BASE="https://docxdataapp.onrender.com/api"
 
 st.title("📄 DOCX Entity Extractor")
 
