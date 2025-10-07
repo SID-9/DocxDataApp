@@ -1,5 +1,6 @@
-fastapi
-uvicorn
-streamlit
-requests
-python-multipart
+fastapi>=0.105
+uvicorn>=0.23
+streamlit>=1.30
+requests>=2.31
+python-multipart>=0.0.6
+python-docx>=0.8.12
