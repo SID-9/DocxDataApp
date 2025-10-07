@@ -51,7 +51,5 @@ streamlit run frontend.app.py
 ---
 
 ## 🌐 Deployment
-
-* **Backend**: [https://chatdataapp.onrender.com]
-* **Frontend**: [https://chatdataapp-1.onrender.com](https://docxdataapp-1.onrender.com/)
+* **Frontend**: [https://docxdataapp-1.onrender.com/)
 
